@@ -37,6 +37,14 @@ img {
     border-radius: 20%;
     box-shadow: 25px 25px 10px darkseagreen;
 }
+.banner {
+    display: block;
+    width: 100%;
+    margin: auto;
+    border: 3px solid darkgreen;
+    border-radius: 20%;
+    box-shadow: 25px 25px 10px darkseagreen;
+}
 table {
     border: 1px solid darkgreen;
     border-collapse: collapse;
