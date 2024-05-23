@@ -1,0 +1,68 @@
+.ctestyles:hover {
+    margin-right: 25px;
+    text-decoration: none;
+    color: black;
+    background-color: yellow;
+    font-size: 22px;
+    font-family: Arial;
+    font-weight: bold;
+}
+a {
+    margin-right: 25px;
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    font-family: Arial;
+    font-weight: bold;
+}
+p {
+    background-color: darkgreen;
+    padding: 15px;
+    text-align: right;
+    border-top: 3px solid gold;
+    border-bottom: 3px solid gold;
+}
+img {
+    display: block;
+    width: 30%;
+    margin: auto;
+    border: 3px solid darkgreen;
+    border-radius: 20%;
+    box-shadow: 25px 25px 10px darkseagreen;
+}
+table {
+    border: 1px solid darkgreen;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid darkgreen;
+    padding: 5px 15px;
+}
+tr:nth-child(odd){
+    background-color:darkkhaki;
+}
+a:hover {
+    background-color: white;
+    color: black;
+    padding: 10px;
+}
+img:hover {
+    display: block;
+    width: 50%;
+    margin: auto;
+    border: 3px solid darkgreen;
+    border-radius: 50%;
+    box-shadow: 15px 15px 5px darkseagreen;
+}
+tr:nth-child(odd):hover{
+    background-color:green;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: lightgray;
+    padding: 15px;
+}
