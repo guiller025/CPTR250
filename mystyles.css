@@ -25,7 +25,9 @@ p {
 .page {
     background-color: white;
     padding: 15px;
-   
+   text-align: left;
+    border-top: 3px solid gold;
+    border-bottom: 3px solid gold;
 }
 img {
     display: block;
