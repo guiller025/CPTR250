@@ -22,6 +22,11 @@ p {
     border-top: 3px solid gold;
     border-bottom: 3px solid gold;
 }
+.page {
+    background-color: white;
+    padding: 15px;
+   
+}
 img {
     display: block;
     width: 30%;
